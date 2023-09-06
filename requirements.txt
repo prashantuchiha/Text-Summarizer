@@ -1,0 +1,66 @@
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+py7zr
+pandas
+nltk
+tqdm
+PyYAML
+matplotlib
+torch 
+notebook
+boto3
+mypy-boto3-s3
+python-box==6.0.2
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
+-e .
+
+################################
+#transformers: A library by Hugging Face for natural language understanding tasks like text generation and translation.
+
+#transformers[sentencepiece]: An extension of the Transformers library with support for SentencePiece, a text tokenization library.
+
+#datasets: A library for working with large-scale datasets for natural language processing (NLP) and machine learning.
+
+#sacreblue: A library for scoring machine translation outputs.
+
+#rouge_score: A library for computing ROUGE (Recall-Oriented Understudy for Gisting Evaluation) scores, commonly used in text summarization and machine translation.
+
+#py7zr: A Python library for working with 7z archives.
+
+#pandas: A popular data manipulation and analysis library for Python.
+
+#nltk: The Natural Language Toolkit, a library for working with human language data (NLP tasks).
+
+#tqdm: A library for adding progress bars to Python loops.
+
+#PyYAML: A library for parsing YAML (YAML Ain't Markup Language) files.
+
+#matplotlib: A library for creating static, animated, and interactive visualizations in Python.
+
+#torch: PyTorch, an open-source machine learning library primarily used for deep learning.
+
+#notebook: Likely referring to Jupyter Notebook, an interactive computing environment for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
+
+#boto3: The AWS SDK for Python, used for interacting with Amazon Web Services (AWS).
+
+#mypy-boto3-s3: A library for type checking AWS S3 (Simple Storage Service) interactions using MyPy.
+
+#python-box==6.0.2: A library for working with Python dictionaries and attributes, version 6.0.2.
+
+#ensure==1.0.2: A package for ensuring that specific Python packages are installed.
+
+#fastapi==0.78.0: A modern, fast (high-performance) web framework for building APIs with Python.
+
+#uvicorn==0.18.3: ASGI (Asynchronous Server Gateway Interface) server for running Python web applications.
+
+#Jinja2==3.1.2: A template engine for Python, version 3.1.2.
+
+# -e .: This appears to be a reference to the current working directory as an editable Python package. The -e flag is often used when installing a Python package from the local filesystem for development purposes.
+
+################################
